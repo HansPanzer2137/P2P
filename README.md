@@ -1,4 +1,4 @@
-# Python-Peer-to-Peer client
+# Python Peer-to-Peer client
 
 
 
