@@ -1,5 +1,6 @@
 import socket
 
+print("Server start")
 known_port = 50002
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
